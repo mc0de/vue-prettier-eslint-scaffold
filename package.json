@@ -36,5 +36,12 @@
         "vue-router": "^3.2.0",
         "vue-template-compiler": "^2.6.11",
         "vuex": "^3.4.0"
+    },
+    "prettier": {
+        "singleQuote": true,
+        "tabWidth": 2,
+        "semi": false,
+        "trailingComma": "none",
+        "arrowParens": "avoid"
     }
 }
